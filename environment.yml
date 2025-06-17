@@ -1,0 +1,17 @@
+name: knita11y
+channels:
+  - defaults
+dependencies:
+  - python=3.9.0
+
+  - pip:
+    - bokeh==2.4.3
+    - holoviews==1.14.8
+    - networkx==2.6.2
+    - numpy==1.24.0
+    - panel==0.14.2
+    - parglare==0.12.0
+    - pyvis==0.1.9
+    -matplotlib==3.8.3
+
+
